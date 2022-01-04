@@ -1,0 +1,3 @@
+text: đoạn văn bản gồm các 'từ' còn lại sau tiền xử lí cách dấu bởi khoảng trắng
+domain: nguồn thông tin
+label: nhãn thật / giả (0: giả ; 1: thật)
